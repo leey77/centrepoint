@@ -35,7 +35,7 @@
     </dependency>
   </dependencies>
   <properties>
-    <jetty.version>6.1.14</jetty.version>
+    <jetty.version>6.1.23</jetty.version>
   </properties>
   <build>
     <finalName>centrepoint-${project.version}</finalName>
